@@ -9,7 +9,7 @@ public class FaceBookLogin {
 		float mark = 98.54545f;
 		System.out.println("myage="+age+"\n"+mobileNo+"\n"+email+"\n"+"grade="+grad);
 		
-		
+		System.out.println("work 1");
 	}
 
 }
